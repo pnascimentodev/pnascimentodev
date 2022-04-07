@@ -2,7 +2,6 @@
 
 - 🔭 Hoje tenho interesse em trabalhar com desenvolvimento mobile Android/iOS (:
 - 🌱 Estudando Flutter/Dart 
-- 📫 Pode me encontrar no meu WhatsApp comercial: +55 81 9449-8041
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fun fact: Eu tenho um braço maior que outro :P
 
