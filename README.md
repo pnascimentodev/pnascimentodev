@@ -3,7 +3,7 @@
 - 🔭 Hoje tenho interesse em trabalhar com desenvolvimento mobile Android/iOS (:
 - 🌱 Estudando Flutter/Dart 
 - 😄 Pronomes: Ela/Dela
-- ⚡ Fun fact: Eu tenho um braço maior que outro :P
+- ⚡ Fun fact: Pareço muito eloquente e cara de pau, mas na verdade sou bem tímida
 
 <div align="center">
   <a href="https://github.com/pnascimentodev">
