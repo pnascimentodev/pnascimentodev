@@ -1,12 +1,11 @@
-### Ola! Me chamo Priscila! 👋
-
-- 🔭 Hoje tenho interesse em trabalhar com desenvolvimento mobile Android/iOS (:
-- 🌱 Estudando Flutter/Dart 
-- 😄 Pronomes: Ela/Dela
-- ⚡ Fun fact: Pareço muito eloquente e cara de pau, mas na verdade sou bem tímida
+### Ola! Me chamo Priscila! Crio alguns projetos de Aplicativos Móveis👋
 
 ##
-
+<div align="center">
+  <a href="https://github.com/pnascimentodev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
   
   <div align="center" style="display: inline_block"><br>
