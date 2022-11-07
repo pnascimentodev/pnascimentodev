@@ -7,12 +7,7 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/pnascimentodev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pnascimentodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnascimentodev&layout=compact&langs_count=7&theme=dracula"/>
-     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/912083677163454474/961612717041541180/Webp.net-gifmaker.gif?width=422&height=422">
-</div>
+
   
   <div align="center" style="display: inline_block"><br>
     
