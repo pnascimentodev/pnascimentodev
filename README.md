@@ -18,8 +18,8 @@
   <p>
     <strong>Java/Spring Specialist focused on: </strong><br/>
 <p></p>
-    • RESTful APIs and microservices architecture<br/>
-    • Clean Code and SOLID principles<br/>
+    • RESTful APIs and GraphQL <br/>
+    • Clean Code, microservices architecture and SOLID principles<br/>
     • Scalable and high-performance systems
   </p>
 </div>
@@ -66,7 +66,7 @@
   <h2>📊 GitHub Analytics</h2>
   <p></p>
   <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-    <img height="153" src="https://github-readme-stats.vercel.app/api?username=pnascimentodev&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=pnascimentodev&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   </div>
 </div>
 
