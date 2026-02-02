@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&width=500&lines=Hello!+I'm+Priscila!+%F0%9F%91%8B" alt="Hello! I'm Priscila!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&width=500&lines=Hello!+I'm+Sebastian!+%F0%9F%91%8B" alt="Hello! I'm Priscila!" />
   
   <h3>Software Engineer | Backend & Fullstack Developer</h3>
 
